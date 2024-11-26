@@ -1,0 +1,10 @@
+input:
+  azure-event-hub:
+    module: azure-eventhub
+    name: hub1
+    endpoint: Endpoint=sb://demotextevents.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=oahU9hkxqXvIpvJbPPU/UiTI+cyTY1kKqib43jMXnMQ=
+    consumerGroup: '$Default'
+    bodyField: body
+
+output: 
+  stdout: yaml
