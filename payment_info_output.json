@@ -1,0 +1,10 @@
+{
+  "transaction_id": "TXN00987",
+  "user_id": 3012,
+  "payment_method": "Visa",
+  "amount": 259.45,
+  "status": "Completed",
+  "billing_address": "1450 Sunset Boulevard, Los Angeles, CA 90028",
+  "cc_last_four": "1123",
+  "transaction_date": "2025-02-07"
+}
