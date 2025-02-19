@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": 1,
+    "username": "sarah_jones",
+    "email": "sarah.jones1984@gmail.com",
+    "password_hash": "$2a$10$eGmA7t6lqzI5cP7X9Ghw7eWZg7TzEjtMImPj5L39zHlInrJfpk4jK",  // realistic hash
+    "address": "1280 Elm Street, San Francisco, CA 94107",
+    "phone": "+1 (415) 555-2324",
+    "dob": "1984-04-12"
+  },
+  {
+    "user_id": 2,
+    "username": "michael_brown",
+    "email": "michael.brown@outlook.com",
+    "password_hash": "$2a$10$V7X5kP3hI2ZUnM1dIXxgwKRGfbzBqrfuYoy1WpZZOWaOrvc9LIRkO",  // realistic hash
+    "address": "5408 Pine Avenue, Seattle, WA 98109",
+    "phone": "+1 (206) 555-9784",
+    "dob": "1990-11-27"
+  }
+]
