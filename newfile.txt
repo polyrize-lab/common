@@ -1,1 +1,6 @@
 test
+
+Access key ID	
+AKIA3BHQ54R2PWDSHCGF	QoJzpgJxb41CvyIKIrfJBeLS0gpmDaNF2BsJjKQq
+Secret access key
+QoJzpgJxb41CvyIKIrfJBeLS0gpmDaNF2BsJjKQq
