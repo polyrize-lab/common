@@ -1,5 +1,5 @@
 test
-***** this is a test file *****
+*** this is a test file ***
 Access key ID	
 AKIA3BHQ54R2PWDSHCGF	QoJzpgJxb41CvyIKIrfJBeLS0gpmDaNF2BsJjKQq
 Secret access key
